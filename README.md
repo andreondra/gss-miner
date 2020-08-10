@@ -29,6 +29,8 @@ It was created for [Turtles](http://www.computercraft.info/wiki/Turtle) to help 
 - rounds (number): number of corridors,
 - orientation (`l` or `r`): which direction to go after finishing a corridor (left or right).
 
+Turtle always mines 3×3 corridors.
+
 #### Example
 
 `mn 8 3 l` results in:
